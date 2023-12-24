@@ -38,4 +38,4 @@ Methods called :
 
 - auth/login
 - adm-api/scenarios
-- 
+- adm-api/scenario/{ScenatioID}/start
